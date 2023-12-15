@@ -5,6 +5,16 @@ Scrimba React project to reinforce all the knowledge we gathered in React so far
 
 note: the blue icon is an extension I'm using on chrome to fix grammar.
 
+## Start the project
+Run in your terminal inside the project folder
+```
+  npm install && npm run dev
+```
+This command is going to download all the dependencies needed and run the project, Vite run by default on this port:
+```
+  localhost:5173
+```
+
 ## Tech 
 - React
 - Vite
@@ -12,3 +22,7 @@ note: the blue icon is an extension I'm using on chrome to fix grammar.
 - React Mde
 - React Split
 - React Showdown
+
+
+### Give Scrimba a go
+If you want to make projects like this and much more, you should definitely give [Scrimba](https://scrimba.com/) a go. It's a shiny community with awesome teachers!
